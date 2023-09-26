@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tesla-landing-page/static/css/main.bcea96cc.css",
+    "main.js": "/Tesla-landing-page/static/js/main.8039c411.js",
+    "index.html": "/Tesla-landing-page/index.html",
+    "main.bcea96cc.css.map": "/Tesla-landing-page/static/css/main.bcea96cc.css.map",
+    "main.8039c411.js.map": "/Tesla-landing-page/static/js/main.8039c411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcea96cc.css",
+    "static/js/main.8039c411.js"
+  ]
+}
